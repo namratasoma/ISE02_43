@@ -53,7 +53,7 @@
 
             margin-left:  100px;
 
-            margin-top: -30px;
+            margin-top: -80px;
 
 	    text-align:center;            
 
