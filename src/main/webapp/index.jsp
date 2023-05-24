@@ -159,6 +159,10 @@
             <div padding: 10px;text-align: center;">
 
                 <a href="https://witsolapur.org/career/" style="font-size: 25px;margin-right: 220px;">Career</a></div>
+												   
+		
+                <img src="cllglib3.jpg">WIT Solapur</a></div>
+
 
 
         
