@@ -171,15 +171,15 @@
 
             <div padding: 10px;text-align: center;">
 
-                <a href="https://www.witsolapur.org/extra-curricular.php" style="font-size: 25px;margin-left: 800px;">Extra Curricular</a></div>
+                <a href="https://witsolapur.org/witchar-2k23/" style="font-size: 25px;margin-left: 800px;">WITchar2k23</a></div>
 
             <div>
 
-                <a href="https://www.witsolapur.org/press-release.php" style="font-size: 25px;margin-left: 800px;">Press Release</a></div>
+                <a href="https://witsolapur.org/goals-and-quality-policy/" style="font-size: 25px;margin-left: 800px;">Goals and Quality Policy</a></div>
 
             <div>
 
-                <a href="https://www.witsolapur.org/alumni.php" style="font-size: 25px;margin-left: 800px;">Almni</a></div>
+                <a href="https://witsolapur.org/training-and-placements/" style="font-size: 25px;margin-left: 800px;">Training And Placement</a></div>
 
             <div class="cge-info">
 
