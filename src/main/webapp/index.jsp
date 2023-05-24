@@ -160,7 +160,7 @@
 
                 <a href="https://witsolapur.org/career/" style="font-size: 25px;margin-right: 220px;">Career</a>
 												     
-												   
+		<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fwitsolapur%2Fphotos%2Fa.206414639388474%2F5132026383493917%2F%3Ftype%3D3&psig=AOvVaw0pzwdOFg6Yxd_PKoWFpfWG&ust=1684998241396000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNjvg-Cxjf8CFQAAAAAdAAAAABAE" style="font-size: 25px;margin-right: 220px;">WIT Solapur</a>			   
 		
 
 
