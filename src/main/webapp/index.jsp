@@ -158,7 +158,7 @@
 
             <div padding: 10px;text-align: center;">
 
-                <a href="https://www.witsolapur.org/pdfs/sskulkarni.pdf" style="font-size: 25px;margin-right: 220px;">View Profile(Librarian)</a></div>
+                <a href="https://witsolapur.org/career/" style="font-size: 25px;margin-right: 220px;">Career</a></div>
 
 
         
